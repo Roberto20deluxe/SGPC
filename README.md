@@ -1,8 +1,9 @@
-# SGPC
+# RMR
 Trabalho Augusto
 
-Tema : Sistema de Gerenciamento de Projetos Colaborativos
-Contextualização :
+*Tema  Sistema de Gerenciamento de Projetos Colaborativos
+
+*Contextualização 
 
 Com a crescente adoção do trabalho remoto e a expansão de equipes distribuídas, torna-se
 indispensável contar com uma plataforma que não apenas simplifique, mas também
@@ -15,7 +16,8 @@ proposta visa preencher essa lacuna, oferecendo uma abordagem inovadora e eficie
 otimizar a colaboração em ambientes de trabalho remoto e equipes dispersas
 geograficamente.
 
-Motivação :
+
+*Motivação 
 
 Durante o período estudamos diversas ferramentas de gerenciamento de projetos, notamos
 que cada uma delas possui seus pontos fortes específicos. Contudo, desejamos a existência de
@@ -23,4 +25,18 @@ uma plataforma abrangente que permita uma integração mais eficaz, abarcando de
 projetos de maior escala até os de menor porte. Essa abordagem visa atender de maneira
 completa às necessidades das diversas equipes envolvidas no desenvolvimento de projetos,
 independentemente do tamanho ou complexidade.![image](https://github.com/Roberto20deluxe/SGPC/assets/125362362/320096dc-57f5-4a6a-8008-ee20b00e56f8)
+
+
+
+
+
+# protótipo  
+![rmr](https://github.com/Roberto20deluxe/SGPC/assets/133005002/540d659d-7d36-41c7-885d-a7cc80812aa7)
+
+
+
+
+
+
+
 
