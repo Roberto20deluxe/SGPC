@@ -22,4 +22,5 @@ que cada uma delas possui seus pontos fortes específicos. Contudo, desejamos a 
 uma plataforma abrangente que permita uma integração mais eficaz, abarcando desde
 projetos de maior escala até os de menor porte. Essa abordagem visa atender de maneira
 completa às necessidades das diversas equipes envolvidas no desenvolvimento de projetos,
-independentemente do tamanho ou complexidade.
+independentemente do tamanho ou complexidade.![image](https://github.com/Roberto20deluxe/SGPC/assets/125362362/320096dc-57f5-4a6a-8008-ee20b00e56f8)
+
