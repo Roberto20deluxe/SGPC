@@ -33,7 +33,11 @@ independentemente do tamanho ou complexidade.![image](https://github.com/Roberto
 # protótipo  
 ![rmr](https://github.com/Roberto20deluxe/SGPC/assets/133005002/540d659d-7d36-41c7-885d-a7cc80812aa7)
 
+Na primeira tela, o usuário tem a opção de fazer login ou criar uma conta. Se optar por criar, será redirecionado para uma tela onde poderá escolher se deseja ser líder ou participante de equipes (podendo alterar essa escolha posteriormente). No processo de cadastro, serão solicitadas informações como e-mail, senha do time (caso esteja se cadastrando para ingressar em um projeto já existente), cargo (com a possibilidade de edição posterior) e telefone.
 
+Na tela inicial para usuários já cadastrados, é possível visualizar os projetos em andamento, organizados em salas criadas pelos líderes de cada projeto específico. Essas salas podem ser utilizadas para dividir ou unir equipes. Por exemplo, pode-se criar uma sala exclusiva para a equipe de marketing, contendo apenas discussões relacionadas a essa área, chats específicos e um calendário dedicado. No entanto, o líder, ou a equipe que o líder indicar, terá a capacidade de conceder acesso a outras equipes. Por exemplo, a equipe de desenvolvedores pode ter acesso à sala de marketing, enquanto a equipe de design tem acesso à sala de código. Também é possível solicitar a criação de uma sala de interseção, se necessário. Além disso, o líder pode criar salas adicionais conforme considerar necessário para a equipe.
+
+No menu hambúrguer, há um espaço reservado para a foto do usuário. O perfil pode ser editado, e há acesso rápido ao calendário geral, que exibe todos os planejamentos, ao chat e às configurações. Existe também a opção de criar, onde o líder é direcionado para escolher o que deseja criar. Isso pode incluir a criação de um novo projeto, uma sala nova com um modelo pronto, o convite de uma equipe para colaborar na criação de uma sala ou projeto, ou ainda a criação de uma sala do zero, sem utilizar modelos pré-existentes no aplicativo.
 
 
 
